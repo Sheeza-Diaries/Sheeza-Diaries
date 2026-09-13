@@ -1,16 +1,14 @@
-## Hi there 👋
+## Salam, I'm Sheezuka (love this nickname)
+"A star who is about to get the moon." (poetic huh?)
 
-<!--
-**Sheeza-Diaries/Sheeza-Diaries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finally!! my first README.md 
+Welcome to my digital space! I am a student from Pakistan. I want to explore something new so I choose to step in Github.
 
-Here are some ideas to get you started:
+After intermediate, I was so confused to choose a bachelors for me so i decided to explore some fields to make a better decision. 
+Due to research, I came to know about Cybersecurity. In my region, it is not a famous field. But I found it interesting. So, I decided to participate in a 5-day training workshop on cybersecurity. To be honest, it is truly fascinating. The mentor selected the "Blue Team" track for us at the basic level. We learned about SOC, SIEM, Firewalls and security threats etc. We also performed a practical exercise by using wazuh software platform. We learned how to deal with threats and secure the system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Overall, It was a great experience. I learned something new through it. If I get the opportunity to participate in more such workshops, I will certainly do so.
+
+Although it was a small platform and I didn't expect it to be that good, it turned out to be good. So, if you get a similar opportunity, you should definitely give it a try.
+
+Thank you for visiting! Let's connect, learn, and explore together. 
