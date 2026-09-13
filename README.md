@@ -1,7 +1,8 @@
 ## Salam, I'm Sheezuka (love this nickname)
 "A star who is about to get the moon." (poetic huh?)
 
-Finally!! my first README.md 
+Finally!! my first README.md
+
 Welcome to my digital space! I am a student from Pakistan. I want to explore something new so I choose to step in Github.
 
 After intermediate, I was so confused to choose a bachelors for me so i decided to explore some fields to make a better decision. 
